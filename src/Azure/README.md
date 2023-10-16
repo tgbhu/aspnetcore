@@ -32,6 +32,6 @@ If all of the prerequisites have already been set up, run the following command 
 > ./build.cmd -t
 ```
 
-## More Information
+## More Informationn
 
 For more information, see the [ASP.NET Core README](../../README.md).
